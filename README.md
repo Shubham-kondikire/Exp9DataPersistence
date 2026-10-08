@@ -551,7 +551,16 @@ The project uses the Kotlin DSL (`.kts`) for Gradle configuration.
 Screenshots can be added to the repository in the following folder:
 
 ```text
-screenshots/
+<img width="732" height="1600" alt="exp9 (1)" src="https://github.com/user-attachments/assets/1f6aa5ad-4e19-4fa1-833f-82875f9dc5fe" />
+<img width="732" height="1600" alt="exp9 (2)" src="https://github.com/user-attachments/assets/1a237e55-35e0-4e20-b2b7-8890a38d92d3" />
+<img width="732" height="1600" alt="exp9 (3)" src="https://github.com/user-attachments/assets/52a8cbbf-f59e-4390-8d74-048fc3709fa7" />
+<img width="732" height="1600" alt="exp9 (4)" src="https://github.com/user-attachments/assets/93b0406e-6954-4eb0-86c1-7506c094e2ae" />
+<img width="732" height="1600" alt="exp9 (5)" src="https://github.com/user-attachments/assets/87b3743b-06eb-4948-9f4e-31c5f8253a58" />
+
+
+
+
+
 ```
 
 Recommended screenshots:
@@ -572,7 +581,7 @@ After adding them, they can be displayed in this README using:
 ![SQLite Notes](screenshots/sqlite_notes.png)
 ```
 
----
+--
 
 ## 🔐 Data Storage Location
 
